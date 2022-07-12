@@ -10,6 +10,7 @@ Shadow-Blog is our Blog by the one and only CY83R-3X71NC710N. Shadow-Blog is a B
 
 ```
 https://www.blogger.com/about/ (Google Blogger)
+https://support.google.com/blogger/answer/41387?hl=en (Backup Google Blogger)
 https://voice.google.com/
 https://www.gitkraken.com/
 https://code.visualstudio.com/
